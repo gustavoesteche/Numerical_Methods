@@ -8,6 +8,7 @@ import matplotlib.pyplot as plt
 # define a função que vai ser trabalhada no problema
 def f(x):
     return x ** 3 - 9 * x + 3 
+# adding a sill commment
 
 
 
